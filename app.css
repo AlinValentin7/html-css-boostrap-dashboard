@@ -1,0 +1,23 @@
+.btn-outline-success {
+    color: rgb(246, 246, 246);
+}
+.btn{
+    border-color: rgb(240, 239, 239);
+}
+
+.form-control {
+    background-color: white;
+   
+}
+.bi{
+    
+    justify-content: center;
+    color: rgb(222, 216, 216);
+    border-style:solid;
+    padding: 2px 5px;
+    border-radius: 5px;
+} 
+
+.lingua-libro{
+    color: lightgrey;
+}
